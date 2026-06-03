@@ -1,5 +1,5 @@
 {
-  "version": "2.02.01",
-  "installer_url": "https://siemensenergyag.sharepoint.com/:u:/r/teams/OG005CF/Shared%20Documents/07_SG3X_SG4X_FLEET_SUPPORT/2_TOOLS/Arthur%20-%20Windhub%20issues/Program/Arthur_Setup_1.07.0.exe?csf=1&web=1&e=0u3lJ5",
-  "notes_url": "En pruebas."
+  "version": "2.23.00",
+  "installer_url": "https://siemensenergyag.sharepoint.com/:u:/r/teams/OG005CF/Shared%20Documents/07_SG3X_SG4X_FLEET_SUPPORT/2_TOOLS/Arthur%20-%20Windhub%20issues/Program/",
+  "notes_url": "Added new tokens to fuzzy similarity (fuse). Thanks I.Elejaga"
 }
