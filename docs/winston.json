@@ -1,5 +1,5 @@
 {
-  "version": "2.24.00",
+  "version": "2.24.01",
   "installer_url": "https://siemensenergyag.sharepoint.com/:u:/r/teams/OG005CF/Shared%20Documents/07_SG3X_SG4X_FLEET_SUPPORT/2_TOOLS/Winston - Windchill search/Program",
   "notes_url": "Added the option to introduce the GP name manually when the GP code is not found. Thanks I.Elejaga"
 }
