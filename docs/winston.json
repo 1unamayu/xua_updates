@@ -1,5 +1,5 @@
 {
-  "version": "2.23.00",
-  "installer_url": "https://siemensenergyag.sharepoint.com/:u:/r/teams/OG005CF/Shared%20Documents/07_SG3X_SG4X_FLEET_SUPPORT/2_TOOLS/Arthur%20-%20Windhub%20issues/Program/",
+  "version": "2.24.00",
+  "installer_url": "https://siemensenergyag.sharepoint.com/:u:/r/teams/OG005CF/Shared%20Documents/07_SG3X_SG4X_FLEET_SUPPORT/2_TOOLS/Winston - Windchill search/Program",
   "notes_url": "Added new tokens to fuzzy similarity (fuse). Thanks I.Elejaga"
 }
