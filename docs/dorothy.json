@@ -1,5 +1,5 @@
 {
-  "version": "1.9.0",
+  "version": "1.10.0",
   "installer_url": "https://siemensenergyag.sharepoint.com/:u:/r/teams/OG005CF/Shared%20Documents/07_SG3X_SG4X_FLEET_SUPPORT/2_TOOLS/Dorothy%20-%20Gamx%20files%20download/Program/",
-  "notes_url": "Back navigation added to wizard. Thanks to @alvaro.larumbe and @mikel.escudero"
+  "notes_url": "1.10.0 — Minor fixes. Multiple instances of the program can now run simultaneously. Thanks to @iñaki.elejaga"
 }
